@@ -19,7 +19,7 @@ public class PilhaInt {
 
 	public void push(int dado) {
 
-		if (!isEmpty()) {
+		//tarradoooooooooif (!isEmpty()) {
 
 			No elemento = new No();
 			elemento.dado = dado;
